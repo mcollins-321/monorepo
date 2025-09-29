@@ -52,7 +52,7 @@
 		"cors": "^2.8.5",
 		"express": "^5.1.0",
 		"express-rate-limit": "^7.5.1",
-		"sharp": "^0.34.2",
+		"sharp": "^0.34.3",
 		"sqlite3": "^5.1.7"
 	}
 }
